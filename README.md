@@ -1,4 +1,4 @@
 # apnapathsala-demo
 This is my first Git Repository
 <br>
-Author - Ganesh kharche
+Author - Ganesh (apni pathshala)
